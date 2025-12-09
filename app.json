@@ -21,4 +21,15 @@
       "typedRoutes": true
     }
   }
+  {
+  "expo": {
+    "name": "Easy Notes",
+    "slug": "easy-notes",
+    "android": {
+      "package": "com.flark321.easynotes"
+    }
+  }
+}
+
+
 }
